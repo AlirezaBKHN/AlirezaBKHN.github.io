@@ -4,11 +4,11 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 11-11-2020
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Anime](http://www.myanimelist.net/)
 
 

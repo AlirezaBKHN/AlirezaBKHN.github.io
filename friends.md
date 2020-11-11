@@ -4,14 +4,15 @@ author_profile: true
 permalink: /friends/
 title: My friends around the world
 tags: [friends]
-modified: 4-10-2019
+modified: 11-11-2020
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### رفقا
+* امین بهناد
+* حسین پوری
+* محسن جوون
+* بخی
 
 
 
