@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /Favorite shows/
+permalink: /Favorite_shows/
 title: Favorite Shows
 tags: [gallery]
 modified: 11-11-2020
