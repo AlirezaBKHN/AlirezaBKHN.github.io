@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "علیرضا بیات خانی"
+title                    : "Alireza Bayatkhani"
 title_separator          : "-"
 name                     : "Alireza" 
 description              : "dark side is calling you"
@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "Alireza Bayatkhani"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  bio              : Student in IUST :D 
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : alireza_bayat@comp.iust.ac.ir
+  twitter: Alireza2154
+  linkedin: alireza-bayatkhani-85362b1bb
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: AlirezaBKHN
+  instagram: Alireza215487
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
