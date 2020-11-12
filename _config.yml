@@ -118,9 +118,6 @@ author:
   github: AlirezaBKHN
   instagram: Alireza215487
   links:
-    - label: "Facebook"
-      icon: ""fab fa-facebook-square""
-      url: https://www.facebook.com/profile.php?id=100006301727652
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
@@ -132,7 +129,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/profile.php?id=100006301727652"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
