@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/profile.php?id=100006301727652
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -166,7 +166,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+      url: "http://calendly.com/Alireza215487"
 
 
 # Reading Files
