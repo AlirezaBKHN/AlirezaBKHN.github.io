@@ -1,22 +1,21 @@
 ---
 layout: posts
-title: My First Post
+title: My Second post
 ---
 
-## Important Notice
-Well there is nothing important here
-it's just me
-so stop fooling around and watch some goods.
+## Not Important Anymore
+as I said there is nothing here anymore
+but since you came this long 
+here is some goods
 
 
-[2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
+[Interstellar](https://www.imdb.com/title/tt0816692/)
 
-well it's a movie that everyone must watch.
-A masterpiece from the legendary Stanley Kubrick
-
+Well Nolan sensei directed it , So you must watch
 
 
-![alt text](../assets/images/2001_A_Space_Odyssey_(1968).png "Movie Poster")
+
+![alt text](../assets/images/download.jpg "Movie Poster")
 
 ---
-**Test**: This is just me fooling around here :D
+**comment**: Hope u like it
