@@ -26,7 +26,11 @@ gallery:
   - url: /assets/images/81OoDEkK-3L._AC_SL1500_.jpg
     image_path: /assets/images/81OoDEkK-3L._AC_SL1500_.jpg
     alt: "placeholder image 5"
-    title: "The Mandalorian"    
+    title: "The Mandalorian"
+  - url: /assets/images/f7e1e9a635c12ccf983f5577ce19e2b4.jpg
+    image_path: /assets/images/f7e1e9a635c12ccf983f5577ce19e2b4.jpg
+    alt: "placeholder image 6"
+    title: "Sword Art Online"      
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
