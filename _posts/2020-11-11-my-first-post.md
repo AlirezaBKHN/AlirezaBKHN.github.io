@@ -7,6 +7,7 @@ title: My First Post
 Well there is nothing important here
 it's just me
 so stop fooling around and watch some goods.
+![alt text](../assets/images/2001_A_Space_Odyssey_(1968).png "Movie Poster")
 
 [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
 
