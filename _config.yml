@@ -151,7 +151,7 @@ footer:
       url: https://www.facebook.com/profile.php?id=100006301727652
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:https://github.com/alirezabkhn
+      url: https://github.com/alirezabkhn
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
