@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: alireza215487@gmail.com
+      # url: alireza215487@gmail.com
     - label: "Steam"
       icon: "fab fa-steam-square"
       url: "https://steamcommunity.com/id/alireza215487/home/"
@@ -141,7 +141,7 @@ author:
       url: "http://calendly.com/Alireza215487"
     - label: "Line"
       icon: "fab fa-line"
-      # url: "http://calendly.com/Alireza215487"
+      url: "http://Line.com/Alireza215487"
 # Site Footer
 footer:
   links:
